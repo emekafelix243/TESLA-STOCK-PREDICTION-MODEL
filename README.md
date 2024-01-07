@@ -4,7 +4,25 @@
 
 **Email : okeke243@gmail.com linkedin : linkedin.com/in/felix-emeka-281629129**
 
-**TESLA STOCK PREDICTION MODEL**
+**BACKGROUND STATEMENT**
+Welcome to the Stock Prediction Model repository! In today's dynamic financial markets, making informed decisions is paramount. This repository houses a predictive model designed to assist users in anticipating future stock price movements based on historical data. By leveraging the power of machine learning and statistical analysis, this model aims to contribute valuable insights to investors, traders, and financial analysts.
+
+**MOTIVATION**
+The motivation behind developing this stock prediction model is rooted in the complexity and volatility of financial markets. Understanding and forecasting stock price movements can be challenging due to the myriad of influencing factors, ranging from market trends and economic indicators to global events and investor sentiment. This model seeks to harness the capabilities of Python-based machine learning algorithms to provide users with a tool that aids in navigating the intricacies of stock market dynamics.
+
+**KEY FEATURES:**
+•	**Data-Driven Insights**: The model utilizes historical stock price data and relevant features to uncover patterns and trends, providing data-driven insights into potential market movements.
+•	**Flexibility:** Designed to be adaptable, users can experiment with different algorithms, timeframes, and additional features to customize the model according to their specific requirements.
+•	**Evaluation Metrics:** The model includes evaluation metrics to assess its predictive performance, helping users gauge the reliability of the generated predictions.
+
+**HOW TO USE**
+To get started, follow the instructions detailed in the documentation. Users can train the model on historical data, evaluate its performance, and leverage it for making predictions on new or unseen data. Additionally, we encourage collaboration and welcome contributions to enhance and refine the model.
+
+**CAUTIONARY NOTE**
+While the model is a valuable tool, predicting stock prices with absolute certainty is an inherently challenging task. External factors and market dynamics may influence outcomes. Users are advised to consider model predictions as part of a comprehensive decision-making process, incorporating various data sources and domain knowledge.
+Thank you for exploring our Stock Prediction Model! We look forward to your feedback and contributions.
+
+**INTRODUCTION**
 In this project, Exploratory Data Analysis is carried out on TESLA Stock data obtained from Yahoo Finande: https://finance.yahoo.com/quote/TSLA/history/
 Here, EDA is performed with Python. Furthermore, python keras package is used to predict the stock prices for the month of January and also predicted percentage increase or decrease in the stock prices.
 
