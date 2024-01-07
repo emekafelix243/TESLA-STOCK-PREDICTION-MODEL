@@ -1,3 +1,9 @@
+SPAM DECTECTION MODEL
+
+Author : Okeke Felix Emeka
+
+Email : okeke243@gmail.com linkedin : linkedin.com/in/felix-emeka-281629129
+
 **TESLA STOCK PREDICTION MODEL**
 In this project, Exploratory Data Analysis is carried out on TESLA Stock data obtained from Yahoo Finande: https://finance.yahoo.com/quote/TSLA/history/
 Here, EDA is performed with Python. Furthermore, python keras package is used to predict the stock prices for the month of January and also predicted percentage increase or decrease in the stock prices.
