@@ -38,6 +38,7 @@ SMA can act as dynamic support and resistance levels. In technical analysis, sup
 3.	**Seasonal Trend Analysis:** Here, stocks are analyzed based on the monthly average of their closing prices. This information can be useful for predicting future stock price movements during specific seasons. It also determines the lag at which stock prices exhibit significant correlations, allowing for the identification of seasonality and potential predictive patterns. By calculating moving averages over specific time intervals that correspond to the seasonal pattern, the function helps in identifying trends and removing short-term noise
 
 4.	**Volatility Analysis:** The following are show the Description and basic functions of the Volatility Analysis:
+   
 **a)	Risk Management:**
 **Use: Assessing and Managing Market Risk**
 **Description**: Volatility is a key indicator of market risk. Higher volatility implies greater price fluctuations, which can result in larger potential losses or gains. Investors and portfolio managers use volatility analysis to quantify and understand the risk associated with specific financial instruments or portfolios. By incorporating volatility measures into risk models, they can adjust portfolio allocations, set stop-loss levels, or implement hedging strategies to mitigate the impact of market fluctuations.
