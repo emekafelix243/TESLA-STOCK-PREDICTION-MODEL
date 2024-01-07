@@ -1,8 +1,8 @@
-TESLA STOCK PREDICTION MODEL
+**TESLA STOCK PREDICTION MODEL
 
-Author : Okeke Felix Emeka
+**Author : Okeke Felix Emeka**
 
-Email : okeke243@gmail.com linkedin : linkedin.com/in/felix-emeka-281629129
+**Email : okeke243@gmail.com linkedin : linkedin.com/in/felix-emeka-281629129**
 
 **TESLA STOCK PREDICTION MODEL**
 In this project, Exploratory Data Analysis is carried out on TESLA Stock data obtained from Yahoo Finande: https://finance.yahoo.com/quote/TSLA/history/
